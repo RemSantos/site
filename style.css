@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(248, 240, 240);
+}
+
+p {
+    font-size: 25px;
+    text-align: justify;
+}
+
+h1{
+    text-align: center;
+    background-color: azure;
+    padding: 20px;
+    font-size: 40 px;
+}
+
+img{
+    image: center;
+    width: 30%;
+}
+
+.his{
+    color: blueviolet;
+}
+
