@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(248, 240, 240);
+    background-color: rgb(0, 191, 255);
 }
 
 p {
@@ -23,3 +23,7 @@ img{
     color: blueviolet;
 }
 
+p{
+  text-decoration-color: rgb(0, 0, 0);
+    
+}
